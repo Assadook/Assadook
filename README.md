@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Assadook.
-- 👀 I’m interested in Sound and Music.
+- 👀 I’m interested in Sound Technology and Music.
 - 🌱 I’m currently learning Max/Msp and Python.
 - 💞️ I’m looking to collaborate on any Sound Projects.
 - 📫 How to reach me is assadmojtahedi@gmail.com.
